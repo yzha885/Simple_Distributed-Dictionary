@@ -28,10 +28,10 @@ Concurrent clients requests
  
 # Run configuration
  Command to Start the Server
-  > java –jar MultithreadedServer.jar <port> <dictionary-file>
+  > java –jar MultithreadedServer.jar port dictionary-file
  
  Command to Start the Client 
-  > java –jar Client.jar <server-address> <server-port>
+  > java –jar Client.jar server-address server-port
  
 # Model/DataSet 
   All data has been stored in a single file stored into desired place. Dict.txt is a sample Example
