@@ -29,6 +29,7 @@ Concurrent clients requests
 # Run configuration
  Command to Start the Server
   > java –jar MultithreadedServer.jar <port> <dictionary-file>
+ 
  Command to Start the Client 
   > java –jar Client.jar <server-address> <server-port>
  
